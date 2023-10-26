@@ -5,7 +5,7 @@
     "dark": "/logos/dark_bg.svg",
     "light": "/logos/light_bg.svg"
   },
-  "favicon": "/logos/favicon.ico",
+  "favicon": "/logos/favicon.png",
   "colors": {
     "primary": "#0d6efd",
     "light": "#f8f9fa",
@@ -42,7 +42,7 @@
     {
       "name": "Welcome",
       "icon": "house",
-      "url": "/"
+      "url": "/index"
     },
     {
       "name": "Documentation",
