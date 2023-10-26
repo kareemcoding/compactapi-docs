@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "About",
-      "icon": "home",
+      "icon": "house",
       "url": "/"
     },
     {
