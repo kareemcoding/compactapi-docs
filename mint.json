@@ -36,11 +36,11 @@
     }
   ],
   "primaryTab": {
-    "name": "About"
+    "name": "Welcome"
   },
   "anchors": [
     {
-      "name": "About",
+      "name": "Welcome",
       "icon": "house",
       "url": "/"
     },
