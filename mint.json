@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "CompactAPI",
   "logo": {
-    "dark": "/logo/dark_bg.svg",
-    "light": "/logo/light_bg.svg"
+    "dark": "https://public-assets.compactapi.com/dark_bg.svg",
+    "light": "https://public-assets.compactapi.com/light_bg.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://public-assets.compactapi.com/favicon.ico",
   "colors": {
     "primary": "#0d6efd",
     "light": "#f8f9fa",
