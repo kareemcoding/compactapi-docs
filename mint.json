@@ -27,10 +27,6 @@
   },
   "tabs": [
     {
-      "name": "Welcome & About",
-      "url": "/"
-    },
-    {
       "name": "Blog",
       "url": "/blog"
     },
@@ -40,8 +36,8 @@
     }
   ],
   "primaryTab": {
-    "name": "Welcome & About"
-    },
+    "name": "About"
+  },
   "anchors": [
     {
       "name": "About",
