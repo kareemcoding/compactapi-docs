@@ -27,10 +27,21 @@
   },
   "tabs": [
     {
+      "name": "Welcome & About",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
       "name": "API Reference",
       "url": "api-reference"
     }
   ],
+  "primaryTab": {
+    "name": "Welcome & About"
+    },
   "anchors": [
     {
       "name": "About",
